@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "MYSQL AYNI SUNUCU İÇİNDE YEDEK ALMAK"
+date:   2021-01-13
+author: bahadir
+excerpt: "Aynı sunucu içerisinde mysql ile yedek almak"
+image: "https://source.unsplash.com/fPkvU7RDmCo/900x400" 
+tags:
+- Mysql
+- Yedek
+- Dublicate
+- SSH
+---
+
+Mysql databaselerinin hızlıca aynı sunucu içerisinde bir kopyasını çıkararak yedek almak yapılan denemelerden ve değişikliklerden etkilenmemek için hızlıca şu yol kullanılabilir.
+
+`mysqldump db_name | mysql new_db_name`
+
+buradaki pipe hızlıca tüm dump işlemini yeni oluşturduğumuz database içerisine uygulayacaktır. new_db_name isminde bir yedeğimiz olacaktır bu sayede.
+
+tabi mysqldump ve mysql komutlarının ikiside başka komutlar alabilirler bu durumda aşağıdaki gibi olacaktır.
+
+`mysqldump -u <user name> --password=<pwd> <original db> | mysql -u <user name> -p <new db>`
+
+ancak burada dikkat edilmesi gereken tabi yeni yada yedek için isim verdiğimiz database'in oluşmuş olması gerektiği.
+
+`echo "create database new_db_name" | mysql -u <dbuser> -p`
+
+Daha verimli olduğunu bulduğum https://digitalfortress.tech/sql/duplicate-a-mysql-database-tutorial/ adresindeki bilgiye göre
+
+ 
+` 
+mysqldump --quote-names -q -u username1 --password='password1' originalDB | mysql -u username2 --password='password2' duplicateDB`
+
+şeklinde kullanılabiliyor. buradaki -q her işlemde sadece bir satırlık işlem yapılmasını sağlayarak büyük tablolarda hata vermesinin önüne geçiyor.
