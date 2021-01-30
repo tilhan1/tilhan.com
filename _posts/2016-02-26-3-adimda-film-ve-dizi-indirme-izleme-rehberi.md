@@ -3,7 +3,7 @@ layout: post
 title:  "3 ADIMDA FİLM VE DİZİ REHBERİ"
 author: bahadir
 date:   2016-02-26
-categories: [ Computer ]
+categories: [ Life ]
 excerpt: "interneti nasıl kullanabileceğimizle alakalı anlatacaklarım"
 image: "https://source.unsplash.com/jtmwD4i4v1U/900x300" 
 tags: [Türkçe, Torrent, Film, Dizi]

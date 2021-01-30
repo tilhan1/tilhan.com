@@ -3,7 +3,7 @@ layout: post
 title:  "Merger von Adobe und Macromedia"
 date:   2015-12-29
 author: bahadir
-categories: [ Betriebswirtchaftslehre ]
+categories: [ Business ]
 excerpt: "Macromedia wurde 1992 durch den Zusammenschluss der Unternehmen..."
 image: "https://source.unsplash.com/clN6N30q3sw/900x300" 
 tags: [Deutsch, Merger, BWL]

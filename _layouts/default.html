@@ -54,8 +54,13 @@ ga('send', 'pageview');
         <li><a href="{{ site.baseurl }}/categories">Categories</a></li>
         <li><a href="{{ site.baseurl }}/tags">Tags</a></li>
         <li><a href="{{ site.baseurl }}/about">About Me</a></li>    
-        <li><a href="{{ site.baseurl }}/contact">Contact Me</a></li>       
-    </ul>   
+        <li><a href="{{ site.baseurl }}/contact">Contact Me</a></li> 
+        <li>
+        <a href="https://twitter.com/{{ site.twitter }}" class="fab fa-twitter" rel="nofollow" style="display: contents; font-size: 24px;"></a>
+        <a href="https://gitlab.com/{{ site.gitlab }}" class="fab fa-gitlab" rel="nofollow" style="display: contents; font-size: 24px;"></a>
+        <a href="https://github.com/{{ site.github }}" class="fab fa-github" rel="nofollow" style="display: contents; font-size: 24px;"></a>
+        </li>      
+    </ul>
 </nav>
 
 {% include search-lunr.html %}
@@ -115,7 +120,7 @@ ga('send', 'pageview');
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net
+                Based on <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a>
             </div>
         </div>
     </div>

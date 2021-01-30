@@ -2,16 +2,13 @@
 layout: post
 title:  "TÜRKİYE'NİN BİLİŞİM TEKONOLOJİLERİ ÇIKMAZI!"
 date:   2016-02-19
+author: bahadir
+categories: [ Life ]
 excerpt: "Bunun bu ülkenin ve üniversitelerinin bir meselesi olduğunu düşünüyorum..."
 image: "https://source.unsplash.com/4m7gmLNr3M0/900x300" 
-tags:
-
-- Tükçe
-
-- Bilişim
-
-- Üniversite
-
+tags:  [Tükçe, Bilişim, Üniversite]
+beforetoc: "Prism highlighter is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post. Tocs is also enabled as you can see in summary."
+toc: false
 ---
 
 Türkiye’nin diye iddialı bir başlık attım çünkü bunun bu ülkenin ve üniversitelerinin bir meselesi olduğunu düşünüyorum. Bu yazıyı yazma sebebimi ve arkaplanını anlatayım. Bu yazının perspektifi bir IT’ci değil daha çok İşletmeci olacak.

@@ -1,16 +1,19 @@
 # Site
 name: "bahadirdogru.com"
 title: "Bahadır Doğru | Information Technology"
-description: "Information Technology blog and some notes. #linux #php #js #csharp"
+description: "Information Technology blog. #linux #php #js #csharp"
 logo: 'assets/images/logobhdr.png'
 favicon: 'assets/images/logobhdr.png'
-baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
+baseurl:
+google_analytics: 'UA-46652895-3'
+disqus: 'bahadirdogru'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: dogrubahadir@gmail.com
+email: xrgodger
+twitter: bhdrd
+github: bahadirdogru
+gitlab: bdogru
 
 # Authors
 authors:

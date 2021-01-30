@@ -2,7 +2,7 @@
 layout: post
 title:  "CUBOX NEDİR"
 author: bahadir
-categories: [ Computer ]
+categories: [ Information Technology ]
 excerpt: "Cubox bir mini bilgisayardır..."
 date:   2016-02-26
 image: https://source.unsplash.com/p0j-mE6mGo4/900x300
