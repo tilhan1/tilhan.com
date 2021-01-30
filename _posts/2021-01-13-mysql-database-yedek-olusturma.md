@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MYSQL AYNI SUNUCU İÇİNDE YEDEK ALMAK"
+title:  "MYSQL Database Yedek Oluşturma"
 date:   2021-01-13
 author: bahadir
 categories: [ Information Technology ]

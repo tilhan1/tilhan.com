@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CUBOX NEDİR"
+title:  "Cubox nedir?"
 author: bahadir
 categories: [ Information Technology ]
 excerpt: "Cubox bir mini bilgisayardır..."
