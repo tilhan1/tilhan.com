@@ -35,17 +35,17 @@ kullanılmaya başlandı. Böylece ilk Altın sikkeyle verilen değer
 sikkeye göre farklıydı aslında ilk kur ve kur farkıda bu şekilde
 oluşmuştu.
 
-![Takas-sistemi](Takas-sistemi.jpg)
+![Takas-sistemi](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/Takas-sistemi.jpg)
 
 Bilindiği üzerede lidyalılardan sonra da ilk paralar devreye girmişti.
 
-![tarihiPara](tarihiPara.jpg)
+![tarihiPara](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/tarihiPara.jpg)
 
 Ve yine zamanla bunun getirdiği fiziksel zorluklar nedeniyle bu
 sistemden de vazgeçildi. Bunun ilk örnekleri çin hanedanları
 dönemindeydi.
 
-![ilk-kag-t-para](ilk-kag-t-para.jpg)
+![ilk-kag-t-para](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/ilk-kag-t-para.jpg)
 
 Özel işlemeli deri paraları takas aracı olarak kullanıyorlardı.\
  Daha sonra 13.yüzyılda kağıt uygulamaları avrupada başladı. Bunlar
@@ -60,7 +60,7 @@ Ancak avrupadaki ilk formu olan kağıt paraların adı BankNote yani
 bankadaki altının not kağıdı şeklindeydi. Anlamı temsili altından
 ibaretti.
 
-![osmanli-kagitpara](osmanli-kagitpara.jpg)
+![osmanli-kagitpara](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/osmanli-kagitpara.jpg)
 
 (Osmanlı Banknotlarından bir örnek)
 
@@ -82,7 +82,7 @@ ağ yapısındaki mantığı neden finansal sistemlerde kullanmayalım diyor ve
 blockchain teknolojisini bankaların ve devletlerin organize ettiği
 Finansal para sistemi yerine kullanıyordu.
 
-![satoshi](satoshi.png)
+![satoshi](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/satoshi.png)
  (bitcoin.org da ilk ilan edildiğinde yazılan makale)
 
 Bir merkez bankasına bağlı sistemler Merkezi (central)\
@@ -91,39 +91,39 @@ Bir merkez bankasına bağlı sistemler Merkezi (central)\
 (ditrubuted)
 
 
-![central-decentral-ditrubuted](central-decentral-ditrubuted.jpg)
+![central-decentral-ditrubuted](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/central-decentral-ditrubuted.jpg)
 
 Bu ademi merkeziyetçi sistem finansal varlıklardaki güvenirliliği
 bilgisayarlar ve matematiksel şifreleme ile sağlıyor. Basitçe blockchain
 şu şekilde.
 
-![Blockchain](Blockchain.png)
+![Blockchain](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/Blockchain.png)
 
 Her blok bir veri barındırıyor ve aynı zamanda kendinden önceki bloğun
 parmak izini (hash) bulunduruyor. Bu şekilde birbirleri ile bağlantılı
 DNA gibi sarmal bir yapısı oluyor.
 
-![blockchains\_block](blockchains_block.png)
+![blockchains\_block](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/blockchains_block.png)
 
 Her blok yapısı itibariyle 1 Mb yada 8 Mb gibi bir büyüklük olarak
 ortaya çıkıp kendi öz datasını, bu datanın şifreli parmak izi (hash) ve
 kendinden önceki blokun şifreli parmak izini taşır.
 
 
-![blockchain2](blockchain2.jpg)
+![blockchain2](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/blockchain2.jpg)
 
 Bu data bir bitcoin bilgisini içerir. Kimden kime ne kadarlık tutarda
 bir bitcoin gönderildiğini
 
-![blockchain3](blockchain3.jpg)
+![blockchain3](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/blockchain3.jpg)
 
 Bu verinin şifreli parmak izini ve önceki bloğun parmak izini de taşır.
 
-![blockchain4](blockchain4.jpg)
+![blockchain4](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/blockchain4.jpg)
 
 Ve yapısal anlamda şu şekilde gözükür.
 
-![3bloks](3bloks.jpg)
+![3bloks](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/3bloks.jpg)
 
 Bu yapı sahte blok yada yalan beyana müsaade etmeyen mantıksal -
 matematiksel bir yapı oluşturur.
@@ -131,7 +131,7 @@ matematiksel bir yapı oluşturur.
 İlk blok genesis yani oluşturma bloğu olduğu için önceki blok bilgisi
 yoktur.
 
-![sahte\_block](sahte_block.jpg)
+![sahte\_block](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/sahte_block.jpg)
 
 Hemen ağ tarafından sahte olan blok yalanlanır ve geçersiz sayılır.
 
@@ -142,7 +142,7 @@ kime gitmiş bilinir. Sırayla bloklar takip edilirse tüm işlem geçmişi
 görüntülenir. Ademi merkeziyetçi olduğu için tüm işlemleri herkes tutar
 ve taşır.
 
-![bitcoin\_network](bitcoin_network.jpg)
+![bitcoin\_network](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/bitcoin_network.jpg)
 
 Bu sayede kripto paralar aslında son derece şeffaf bir finansal sistem
 olarak çıkar karşımıza. Kriptolojisi sadece banka gibi kurumlara gerek
@@ -156,7 +156,7 @@ güvenilir tarafıdır.
 Şuan türkiyede birkaç kripto para borsası vardır. Bunların işlem
 hacimleri şu şekildedir.
 
-![kriptopara-borsalar](./Paranın%20icadından%20Blockchain'e%20bir%20kripto%20para%20macerası_files/kriptopara-borsalar.png)
+![kriptopara-borsalar](https://raw.githubusercontent.com/bahadirdogru/bahadirdogru.com/master/assets/images/kriptopara-borsalar.png)
 Detaylı incelemek için
 [şuraya](https://webrazzi.com/2017/10/31/turkiyenin-kripto-para-borsalarinin-hacmi-ne-kadar/)
 bakabilirsiniz.
