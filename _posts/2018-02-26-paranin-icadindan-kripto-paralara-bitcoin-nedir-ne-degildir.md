@@ -5,7 +5,7 @@ date:   2018-02-26
 author: bahadir
 categories: [ Business, Information Technology]
 excerpt: "Paranın icadından bugüne bitcoinlere varan serüvene bir gözatmak..."
-image: "https://source.unsplash.com/clN6N30q3sw/900x300" 
+image: "https://source.unsplash.com/iGYiBhdNTpE/900x300" 
 tags: [Bitcoin, Blockchain, Kriptopara]
 beforetoc: "Paranın icadından bugüne bitcoinlere varan serüvene bir gözatmak bazı
 şeyleri yeniden hatırlamak istedim. Sonrasında da bugünün gündemi olan
@@ -180,7 +180,7 @@ olmak anlamına gelecektir.
 Çünkü 13.01.2018 itibariyle piyasada 1375 ayrı kripto para tedavülde
 olup toplam piyasa değerleri 741.492.791.069 dolara tekabül etmektedir.
 
-## Kaynak
+## Kaynak
 
 Bazı kaynaklar incelemeniz için:
 
