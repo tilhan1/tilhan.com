@@ -1,7 +1,7 @@
 # Site
 name: "bahadirdogru.com"
 title: "Bahadır Doğru | Information Technology"
-description: "Information Technology blog. #linux #php #js #csharp"
+description: "Information Technology blog."
 logo: 'assets/images/logobhdr.png'
 favicon: 'assets/images/logobhdr.png'
 baseurl:
@@ -57,7 +57,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: none
+highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
