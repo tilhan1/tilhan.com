@@ -2,6 +2,7 @@
 name: "bahadirdogru.com"
 title: "Bahadır Doğru | Information Technology"
 description: "Information Technology blog."
+subdescription: "#english #deutsch #türkçe"
 logo: 'assets/images/logobhdr.png'
 favicon: 'assets/images/logobhdr.png'
 baseurl:
