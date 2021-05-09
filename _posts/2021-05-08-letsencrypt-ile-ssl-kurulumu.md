@@ -5,7 +5,7 @@ date:   2021-05-08
 author: bahadir
 categories: [Information Technology]
 excerpt: "SSL Güvenli Giriş Katmanı‘dır. Tarayıcı ile sunucu arasındaki trafiğin şifrelenerek aradaki tüm aktarıcılardan içeriği korur. Lets Encrypt bu hizmeti ücretsiz sağlayan aracıdır. İnternette güvenliliği ve gizliliği sağlamaktır."
-image: "https://source.unsplash.com/iar-afB0QQw/900x300" 
+image: "assets/images/ssl-http-https-nedir.jpg" 
 tags: [SSL, e-ticaret, webserver, güvenlik, sertifika]
 beforetoc: "SSL Güvenli Giriş Katmanı‘dır. Tarayıcı ile sunucu arasındaki trafiğin şifrelenerek aradaki tüm aktarıcılardan içeriği korur. Lets Encrypt bu hizmeti ücretsiz sağlayan aracıdır. İnternette güvenliliği ve gizliliği sağlamaktır."
 toc: false

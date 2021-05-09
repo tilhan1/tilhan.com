@@ -5,7 +5,7 @@ date:   2021-05-07
 author: bahadir
 categories: [Information Technology]
 excerpt: "Debian işletim sistemi üstünde yönetilebilir nginx sunucu kurmayı ve ayarlamayı anlattım."
-image: "https://source.unsplash.com/taxUPTfDkpc/900x300" 
+image: "assets/images/how-to-install-nginx-on-debian.jpg" 
 tags: [Webserver, Nginx, Debian, Cloud, Php, Apache, Mysql, MariaDB]
 beforetoc: "Debian işletim sistemi üstünde yönetilebilir nginx sunucu kurmayı ve ayarlamayı anlattım."
 toc: false
@@ -189,6 +189,33 @@ Sırada sunucuyu yeniden başlatmak var.
 sudo reboot
 ```
 
-Tebrikler artık debian üzerinde çalışan bir php sunucunuz var.
+![enter image description here](/assets/images/nginx_debian.png)
+Tebrikler artık debian üzerinde çalışan bir nginx sunucunuz var.
 
-Eğer SSL kurulumunu da yapmak istiyorsanız [bu](/letsencrypt-ile-ssl-kurulumu) yazımı okuyabilirsiniz.
+Ajenti Panele ilk girişte kendinden imzalı ssl ile gelir o sebeple onay vererek giriş yaparız.
+![enter image description here](/assets/images/ajenti_01.jpg)
+![enter image description here](/assets/images/ajenti_02.jpg)
+
+Ajenti Panelin ilk giriş kullanıcı adı root ilk şifresi ise admin olarak gelir.
+![enter image description here](/assets/images/ajenti_03.jpg)
+
+Panel üzerinden gerekli ayarları yapabiliriz.
+![enter image description here](/assets/images/ajenti_04.jpg)
+
+![enter image description here](/assets/images/ajenti_05.jpg)
+
+![enter image description here](/assets/images/ajenti_06.jpg)
+
+![enter image description here](/assets/images/ajenti_07.jpg)
+
+![enter image description here](/assets/images/ajenti_08.jpg)
+
+![enter image description here](/assets/images/ajenti_09.jpg)
+
+![enter image description here](/assets/images/ajenti_10.jpg)
+
+![enter image description here](/assets/images/ajenti_11.jpg)
+
+Buraya kadar okuduyup uyguladıysanız umarım faydalı olmuştur. Bir sorunuz varsa bana iletişim formundan sorabilirsiniz.
+
+Eğer SSL kurulumunu da yapmak istiyorsanız [Lets Encrypt ile SSL kurulumu](/letsencrypt-ile-ssl-kurulumu) yazımı okuyabilirsiniz.

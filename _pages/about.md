@@ -3,8 +3,8 @@ layout: page
 title: About 
 permalink: /about
 comments: false
-# image: assets/images/screenshot.jpg
-imageshadow: true
+# image: assets/images/profile.png
+imageshadow: false
 ---
 ## English
 Hi, my name is Bahadır Doğru. I was born in 1992 in Istanbul. I studied highschool at Çınar Collage and then Marmara University Business Administration in german language.
