@@ -52,7 +52,7 @@ sudo certbot renew --dry-run
 ```
 
 Bu komutun ardından gelen sorulara cevap vererek ssl sertifikasını onaylatmış oluyoruz.
-Sertifikamız /etc//etc/letsencrypt/live/siteadi.com/ altında bulunacaktır.
+Sertifikamız /etc/letsencrypt/live/siteadi.com/ altında bulunacaktır.
 
 Bu dizindeki fullchain.pem ve privkey.pem dosyalarını ajenti panelin altında resimdeki yerde ayarlıyoruz.
 
