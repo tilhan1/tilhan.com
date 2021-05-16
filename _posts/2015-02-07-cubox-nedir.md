@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cubox nedir?"
+language: tr
 author: bahadir
 categories: [ Information Technology ]
 excerpt: "Cubox bir mini bilgisayardır..."

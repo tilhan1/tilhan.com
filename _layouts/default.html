@@ -1,12 +1,18 @@
 <!DOCTYPE html>
-<html lang="{{site.language}}">
+{% if page.layout == 'post' %}
+    <html lang="{{page.language}}">
+{%else %}
+    <html lang="{{site.language}}">
+{% endif %}
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-<title>{{ page.title }} | {{site.name}}</title>
+<title>{{ page.title }} | {{site.name}} | {{site.description}} | {{site.subdescription}}</title>
+
+<link rel="alternate" type="application/rss+xml" href="{{site.baseurl}}/feed.xml" />
  
 {% seo %}
     

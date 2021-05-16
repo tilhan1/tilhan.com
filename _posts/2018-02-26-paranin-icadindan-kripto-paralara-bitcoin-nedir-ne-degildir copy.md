@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Paranın icadından kripto paralara! Bitcoin nedir? Ne değildir?"
+language: tr
 date:   2018-02-26
 author: bahadir
 categories: [ Business, Information Technology]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Debian ve Nginx ile Webserver Kurulumu"
+language: tr
 date:   2021-05-07
 author: bahadir
 categories: [Information Technology]

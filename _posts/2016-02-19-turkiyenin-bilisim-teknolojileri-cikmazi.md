@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Türkiye'nin Bilişim Teknolojileri Çıkmazı!"
+language: tr
 date:   2016-02-19
 author: bahadir
 categories: [ Life ]

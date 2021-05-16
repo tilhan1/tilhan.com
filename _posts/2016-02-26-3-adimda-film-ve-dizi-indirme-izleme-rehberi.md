@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "3 Adımda Film ve Dizi Rehberi"
+language: tr
 author: bahadir
 date:   2016-02-26
 categories: [ Life ]

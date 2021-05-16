@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Writing in jekyll"
+language: en
 author: bahadir
 categories: [ Information Technology ]
 tags: [jekyll]

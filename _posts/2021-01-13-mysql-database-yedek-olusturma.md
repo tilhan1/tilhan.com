@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "MYSQL Database Yedek Oluşturma"
+language: tr
 date:   2021-01-13
 author: bahadir
 categories: [ Information Technology ]

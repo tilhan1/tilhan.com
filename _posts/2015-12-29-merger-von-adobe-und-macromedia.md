@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Merger von Adobe und Macromedia"
+language: de
 date:   2015-12-29
 author: bahadir
 categories: [ Business ]
