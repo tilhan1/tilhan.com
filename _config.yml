@@ -1,32 +1,31 @@
 # Site
-name: "bahadirdogru.com"
-language: "en"
-title: "Bahadır Doğru | Information Technology"
-description: "Information Technology blog."
-subdescription: "#english #deutsch #türkçe | #js #php #csharp #python"
-logo: 'assets/images/logobhdr.png'
-favicon: 'assets/images/logobhdr.png'
+name: "tilhan.net"
+language: "tr"
+title: "Tayip İlhan | Tableau Engineer"
+description: "Tableau blog."
+subdescription: "Tableau hakkında Türkçe kaynak."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: 
-google_analytics: 'UA-46652895-3'
-disqus: 'bahadirdogru'
+google_analytics: ''
+disqus: ''
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: xrgodger
-twitter: bhdrd
-github: bahadirdogru
-gitlab: bdogru
+twitter: 
+github: tilhan1
+gitlab: 
 
 # Authors
 authors:
   bahadir:
-    name: Bahadır
-    display_name: Bahadır
+    name: Tayip İlhan
+    display_name: Tilhan
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: iletisim@bahadirdogru.com
-    web: https://www.bahadirdogru.com
-    twitter: https://twitter.com/bhdrd
-    description: "Writer of some codes."
+    email: tayyip.ilhannn@gmail.com
+    web: https://www.tilhan.net
+    description: "..."
   # john:
   #   name: John
   #   display_name: John    
