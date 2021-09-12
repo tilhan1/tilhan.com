@@ -13,15 +13,15 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 include: ["_pages"]
 permalink: /:title/
 email: xrgodger
-twitter: 
+linkedin: tayip-ilhan-742476181/
 github: tilhan1
-gitlab: 
+instagram: tayip.ilhnn
 
 # Authors
 authors:
   bahadir:
-    name: Tayip İlhan
-    display_name: Tilhan
+    name: Tayip
+    display_name: Tayip İlhan
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: tayyip.ilhannn@gmail.com
     web: https://www.tilhan.net
