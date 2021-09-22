@@ -41,6 +41,9 @@ post_class: post-template
 <!-- Content -->
 {% include article.html %}
 
+<!-- Videos -->
+<iframe id="vid_frame" frameborder="0" height="600vh" width="100%" src='{{ page.youtube }}?rel=0&amp;showinfo=0&amp;autohide=1' allowfullscreen=""></iframe>
+
 <!-- Rating -->
 {% if page.rating %}
 <div class="rating mt-4 mb-4 d-flex align-items-center">

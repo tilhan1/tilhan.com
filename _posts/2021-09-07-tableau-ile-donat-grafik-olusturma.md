@@ -2,8 +2,8 @@
 layout: post
 title:  "Tableau ile Donat Grafik"
 language: tr
-date:   2021-05-07
-author: tayip
+date:   2021-09-07
+author: Tayip
 categories: [Tableau]
 excerpt: "Tableau ile Donat Grafik oluşturma"
 image: "assets/images/donut.png" 
